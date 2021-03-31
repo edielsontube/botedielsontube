@@ -51,8 +51,8 @@
     "spinnies": "^0.5.1",
     "tiktok-scraper": "^1.4.7",
     "translatte": "^2.5.8",
-    "youtube-mp3-downloader": "^0.7.6",
-    "youtube-sr": "^4.0.3"
+    "youtube-sr": "^4.0.3",
+    "ytdl-core": "^4.5.0"
   },
   "repository": {
     "type": "git",
