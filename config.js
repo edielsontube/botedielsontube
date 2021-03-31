@@ -1,7 +1,7 @@
-const ownerNumber = ["557187645787@s.whatsapp.net"] 
+const ownerNumber = ["559182487335@s.whatsapp.net"] 
 // mude somente o numero e não tire o @s.whatsapp.net
 
-const OriginalOwner = '557187645787' 
+const OriginalOwner = '559182487335' 
 // mude para seu numero
 
 const cr = 'EDIELSONTUBE 𝐁𝐎𝐓\n' 
@@ -30,6 +30,12 @@ const banmsglink = ' '
 
 const adminmsglink = 'Isso é um link amigo... ah é tu é adm ent pode kkkk 🙃'
 // mensagem de quando adm manda link
+
+const adminmsgpalavra = 'isso esta na lista das palavras proibidas pelo bot'
+// mensagem de quando adm manda uma palavra proibida pelo bot
+
+const banmsgpalavra = 'Palavra proibida? Já sabe né'
+// mensagem de ban quando manda uma palavra proibida pelo bot
 
 
 // MENSAGENS DE BOM DIA BOA TARDE E BOA NOITE
@@ -105,6 +111,9 @@ const vcard = 'BEGIN:VCARD\n'
 
 // Nem ouse mexer aqui se n quiser que de erro
 
+exports.banmsgpalavra = banmsgpalavra
+exports.adminmsgpalavra = adminmsgpalavra
+exports.apikeyporn = apikeyporn
 exports.linkbotlindo = linkbotlindo
 exports.botlindo = botlindo
 exports.botfeio = botfeio
