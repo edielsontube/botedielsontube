@@ -173,6 +173,7 @@ https://m.facebook.com/Edielson-Tube-107805388062695/
 ❁❧ *${p}antidoc* ❮1 or 0❯
 ❁❧ *${p}antiloc* ❮1 or 0❯
 ❁❧ *${p}antiimg* ❮1 or 0❯
+❁❧ *${p}antipalavra* ❮1 or 0❯
 ❁❧ *${p}antivideo* ❮1 or 0❯
 ❁❧ *${p}antisticker* ❮1 or 0❯
 ❁❧ *${p}antiaudio* ❮1 or 0❯
@@ -181,13 +182,15 @@ https://m.facebook.com/Edielson-Tube-107805388062695/
 ❁❧ *${p}antilink* ❮1 or 0❯
 ❁❧ *${p}antiporn* ❮1 or 0❯
 ❁❧ *${p}antifake* ❮1 or 0❯
+❁❧ *${p}autostickerimg* ❮1 or 0❯
 ❁❧ *${p}onmodgrupo*
 ❁❧ *${p}offmodgrupo*
 ❁❧ *${p}autoreply* ❮1 or 0❯
 ❁❧ *${p}antilinkhard* ❮1 or 0❯
-❁❧ *${p}tagall* ❮num❯
-❁❧ *${p}tagall2* ❮num❯
-❁❧ *${p}tagall3* ❮num❯
+❁❧ *${p}marcar*
+❁❧ *${p}marcar2*
+❁❧ *${p}marcar3*
+❁❧ *${p}hidemarcar* ❮txt❯
 
 🕵️ 𝚂𝚝𝚊𝚕𝚔𝚎𝚛 🕵️
 
@@ -214,6 +217,18 @@ https://m.facebook.com/Edielson-Tube-107805388062695/
 ❁❧ *${p}boanoite*
 ❁❧ *${p}lindo*
 ❁❧ *${p}cheguei*
+
+😎 𝙲𝚛𝚒𝚊𝚍𝚘𝚛 😎
+
+❁❧ *${p}alerta* ❮txt❯
+❁❧ *${p}addpalavra* ❮txt❯
+❁❧ *${p}removepalavra* ❮txt❯
+❁❧ *${p}limparchat* ❮txt❯
+❁❧ *${p}ataque* ❮txt❯
+❁❧ *${p}divulgar* ❮txt❯
+❁❧ *${p}entrargp* ❮txt❯
+❁❧ *${p}block* ❮num❯
+❁❧ *${p}unblock* ❮num❯
 
 😝 𝙳𝚒𝚟𝚎𝚛𝚜𝚊̃𝚘 😝
 
