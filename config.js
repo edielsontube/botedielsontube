@@ -10,6 +10,11 @@ const cr = 'EDIELSONTUBE 𝐁𝐎𝐓\n'
 const prefix = '' 
 // prefixo
 
+const blockedmsg = '*😜 Seu número esta bloqueado, ou seja não ouvindo você 😜*'
+// mensagem quando alguem bloqueado solicita um comando
+
+const blockedcmdmsg = '*🚫Este comando esta bloqueado contate o propitetário do bot para saber o pq🚫*'
+// mensagem quando alguem solicita um comando bloqueado 
 
 // MENSAGENS DE BAN
 
@@ -37,6 +42,9 @@ const adminmsgpalavra = 'isso esta na lista das palavras proibidas pelo bot'
 const banmsgpalavra = 'Palavra proibida? Já sabe né'
 // mensagem de ban quando manda uma palavra proibida pelo bot
 
+const qnttravahardroleta = 2
+// quantidade de travas que mandam no roleta russa hard
+// Obs: O valor é multiplicado por 12 ent tenha cuidado
 
 // MENSAGENS DE BOM DIA BOA TARDE E BOA NOITE
 
@@ -108,9 +116,10 @@ const vcard = 'BEGIN:VCARD\n'
 //vcard do propietário, mude os numeros de acordo com o formato que
 //ele corresponde
 
-
 // Nem ouse mexer aqui se n quiser que de erro
-
+exports.qnttravahardroleta = qnttravahardroleta
+exports.blockedcmdmsg = blockedcmdmsg
+exports.blockedmsg = blockedmsg
 exports.banmsgpalavra = banmsgpalavra
 exports.adminmsgpalavra = adminmsgpalavra
 exports.apikeyporn = apikeyporn
