@@ -4,6 +4,9 @@ const ownerNumber = ["559182487335@s.whatsapp.net"]
 const OriginalOwner = '559182487335' 
 // mude para seu numero
 
+const apikeyporn = 'fc8fe174f018b95cdae9272493f1a12f'
+// sua key do imgbb para ativar o antiporn
+
 const cr = 'EDIELSONTUBE 𝐁𝐎𝐓\n' 
 // texto do simbolo de verificado
 
