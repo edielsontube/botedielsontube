@@ -18,6 +18,10 @@ https://m.facebook.com/Edielson-Tube-107805388062695/
 
 ⚡𝙿𝚛𝚒𝚗𝚌𝚒𝚙𝚊𝚒𝚜⚡
 
+❁❧ *${p}listblockcmd*
+❁❧ *${p}listpalavra*
+❁❧ *${p}destrava*
+❁❧ *${p}sugerircmd* ❮text❯
 ❁❧ *${p}ping*
 ❁❧ *${p}destrava*
 ❁❧ *${p}blocklist*
@@ -30,6 +34,13 @@ https://m.facebook.com/Edielson-Tube-107805388062695/
 ❁❧ *${p}sticker* ❮caption, reply img❯
 ❁❧ *${p}fstiker* ❮caption, reply img❯
 ❁❧ *${p}fsticker* ❮caption, reply img❯
+
+💀 𝚛𝚘𝚕𝚎𝚝𝚊 𝚛𝚞𝚜𝚜𝚊 💀
+
+❁❧ *${p}roletarussahard*
+❁❧ *${p}roletarussamed*
+❁❧ *${p}roletarussaeasy*
+❁❧ *${p}roletarussapac*
 
 🔍 𝙿𝚎𝚜𝚚𝚞𝚒𝚜𝚊 🔎 
 
@@ -83,6 +94,8 @@ https://m.facebook.com/Edielson-Tube-107805388062695/
 
 🧾 𝚃𝚎𝚡𝚝𝚘 🧾
 
+❁❧ *${p}macaco*
+❁❧ *${p}mineconquista* ❮t1❯ | ❮t2❯
 ❁❧ *${p}attp* ❮txt❯
 ❁❧ *${p}fakeidentity*
 ❁❧ *${p}traduz* ❮la❯ ❮txt❯
@@ -121,6 +134,7 @@ https://m.facebook.com/Edielson-Tube-107805388062695/
 
 🔮 𝙿𝚛𝚎𝚟𝚒𝚜𝚘̃𝚎𝚜 🔮
 
+❁❧ *${p}cassino*
 ❁❧ *${p}ship* ❮num1❯ ❮num2❯
 ❁❧ *${p}corno* ❮num1❯
 ❁❧ *${p}nazista* ❮num1❯
@@ -169,6 +183,7 @@ https://m.facebook.com/Edielson-Tube-107805388062695/
 ❁❧ *${p}promote* ❮dial num❯
 ❁❧ *${p}demote* ❮dial num❯
 ❁❧ *${p}add* ❮num❯
+❁❧ *${p}roletarussablock* ❮1 or 0❯
 ❁❧ *${p}welcome* ❮1 or 0❯
 ❁❧ *${p}antidoc* ❮1 or 0❯
 ❁❧ *${p}antiloc* ❮1 or 0❯
@@ -220,6 +235,8 @@ https://m.facebook.com/Edielson-Tube-107805388062695/
 
 😎 𝙲𝚛𝚒𝚊𝚍𝚘𝚛 😎
 
+❁❧ *${p}blockcmd* ❮cmd no prefix❯
+❁❧ *${p}unblockcmd* ❮cmd no prefix❯
 ❁❧ *${p}alerta* ❮txt❯
 ❁❧ *${p}addpalavra* ❮txt❯
 ❁❧ *${p}removepalavra* ❮txt❯
