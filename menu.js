@@ -42,6 +42,45 @@ https://m.facebook.com/Edielson-Tube-107805388062695/
 ❁❧ *${p}roletarussaeasy*
 ❁❧ *${p}roletarussapac*
 
+🎥 𝚅𝚒́𝚍𝚎𝚘 🎥
+
+❁❧ *${p}frame* ❮sec❯ ❮reply video❯
+❁❧ *${p}mute* ❮reply video❯
+❁❧ *${p}rapidovid* ❮reply video❯
+❁❧ *${p}lentovid* ❮reply video❯
+❁❧ *${p}togif* ❮reply video❯
+❁❧ *${p}resizevid* ❮lag❯ ❮alt❯ ❮reply vid❯
+
+📷 𝚎𝚍𝚒𝚝𝚘𝚛 𝚍𝚎 𝚏𝚘𝚝𝚘𝚜 📷
+
+❁❧ *${p}cropimg* ❮lag❯ ❮alt❯ ❮reply img❯
+❁❧ *${p}bwimg* ❮reply img❯
+❁❧ *${p}identifyimg* ❮reply img❯
+❁❧ *${p}monochromeimg* ❮reply img❯
+❁❧ *${p}resizeimg* ❮lag❯ ❮alt❯ ❮reply img❯
+❁❧ *${p}blurimg* ❮rad❯ ❮sig❯ ❮reply img❯
+❁❧ *${p}flowerlogo* ❮txt❯
+❁❧ *${p}matrixlogo* ❮txt❯
+❁❧ *${p}thunderlogo* ❮txt❯
+❁❧ *${p}silverplaca* ❮txt❯
+❁❧ *${p}goldplaca* ❮txt❯
+❁❧ *${p}narutologo* ❮txt❯
+❁❧ *${p}phlogo* ❮t1❯ | ❮t2❯
+❁❧ *${p}mineconquista* ❮t1❯ | ❮t2❯
+❁❧ *${p}shadow* ❮txt❯
+❁❧ *${p}glitch* ❮t1❯ | ❮t2❯
+❁❧ *${p}ravetxt* ❮t1❯ | ❮t2❯
+❁❧ *${p}woodtxt* ❮t1❯ | ❮t2❯
+❁❧ *${p}neon* ❮t1❯ | ❮t2❯
+❁❧ *${p}sunset* ❮t1❯ | ❮t2❯
+❁❧ *${p}gimage* ❮txt❯
+❁❧ *${p}pglass* ❮txt❯
+❁❧ *${p}neonligth* ❮txt❯
+❁❧ *${p}coffe* ❮txt❯
+❁❧ *${p}galaxywp* ❮txt❯
+❁❧ *${p}whatis* ❮txt❯
+❁❧ *${p}txt3d* ❮txt❯
+
 🔍 𝙿𝚎𝚜𝚚𝚞𝚒𝚜𝚊 🔎 
 
 ❁❧ *${p}mob*
@@ -62,6 +101,15 @@ https://m.facebook.com/Edielson-Tube-107805388062695/
 ❁❧ *${p}ip* ❮ip❯
 ❁❧ *${p}signome* ❮name❯
 ❁❧ *${p}gimage* ❮name❯
+
+🗣️ 𝚟𝚘𝚣 𝚖𝚘𝚍 🗣️
+｡☆✼★━━━━━━ - ━━━━━━★✼☆｡
+❁❧ *${p}esquilo* ❮reply audio❯
+❁❧ *${p}grave* ❮reply audio❯
+❁❧ *${p}estourar* ❮reply audio❯
+❁❧ *${p}rapidoaudio* ❮reply audio❯
+❁❧ *${p}lentoaudio* ❮reply audio❯
+❁❧ *${p}bass* ❮reply audio❯
 
 🎵 𝙰𝚞𝚍𝚒𝚘 🎵
 
@@ -94,21 +142,13 @@ https://m.facebook.com/Edielson-Tube-107805388062695/
 
 🧾 𝚃𝚎𝚡𝚝𝚘 🧾
 
-❁❧ *${p}macaco*
-❁❧ *${p}mineconquista* ❮t1❯ | ❮t2❯
-❁❧ *${p}attp* ❮txt❯
 ❁❧ *${p}fakeidentity*
+❁❧ *${p}txtcmd*
+❁❧ *${p}installbot*
 ❁❧ *${p}traduz* ❮la❯ ❮txt❯
 ❁❧ *${p}wame*
 ❁❧ *${p}repeat* ❮txt❯
 ❁❧ *${p}ocr* ❮caption, reply video❯
-❁❧ *${p}glitch* ❮t1❯ | ❮t2❯
-❁❧ *${p}neon* ❮t1❯ | ❮t2❯
-❁❧ *${p}sunset* ❮t1❯ | ❮t2❯
-❁❧ *${p}gimage* ❮txt❯
-❁❧ *${p}pglass* ❮txt❯
-❁❧ *${p}neonligth* ❮txt❯
-❁❧ *${p}coffe* ❮txt❯
 ❁❧ *${p}nethunter*
 ❁❧ *${p}idioma*
 ❁❧ *${p}frase*
@@ -132,14 +172,8 @@ https://m.facebook.com/Edielson-Tube-107805388062695/
 ❁❧ *${p}ebinary* ❮txt❯
 ❁❧ *${p}dbinary* ❮txt❯
 
-🔮 𝙿𝚛𝚎𝚟𝚒𝚜𝚘̃𝚎𝚜 🔮
+🏆 𝚛𝚊𝚗𝚔𝚒𝚗𝚐𝚜 🏆
 
-❁❧ *${p}cassino*
-❁❧ *${p}ship* ❮num1❯ ❮num2❯
-❁❧ *${p}corno* ❮num1❯
-❁❧ *${p}nazista* ❮num1❯
-❁❧ *${p}comunista* ❮num1❯
-❁❧ *${p}dado*
 ❁❧ *${p}ranklindo*
 ❁❧ *${p}rankfeio*
 ❁❧ *${p}rankgado*
@@ -149,6 +183,15 @@ https://m.facebook.com/Edielson-Tube-107805388062695/
 ❁❧ *${p}rankfofo*
 ❁❧ *${p}rankotaku*
 ❁❧ *${p}rankgay*
+
+🔮 𝙿𝚛𝚎𝚟𝚒𝚜𝚘̃𝚎𝚜 🔮
+
+❁❧ *${p}cassino*
+❁❧ *${p}ship* ❮num1❯ ❮num2❯
+❁❧ *${p}corno* ❮num1❯
+❁❧ *${p}nazista* ❮num1❯
+❁❧ *${p}comunista* ❮num1❯
+❁❧ *${p}dado*
 ❁❧ *${p}gay* ❮num1❯
 ❁❧ *${p}qi* ❮num1❯
 ❁❧ *${p}seudia* ❮num1❯
@@ -169,6 +212,21 @@ https://m.facebook.com/Edielson-Tube-107805388062695/
 ❁❧ *${p}qrcoderb* ❮txt❯
 ❁❧ *${p}qrcodebr* ❮txt❯
 
+❌ 𝙰𝚗𝚝𝚒𝚜 ❌
+
+❁❧ *${p}antidoc* ❮1 or 0❯
+❁❧ *${p}antiloc* ❮1 or 0❯
+❁❧ *${p}antiimg* ❮1 or 0❯
+❁❧ *${p}antipalavra* ❮1 or 0❯
+❁❧ *${p}antivideo* ❮1 or 0❯
+❁❧ *${p}antisticker* ❮1 or 0❯
+❁❧ *${p}antiaudio* ❮1 or 0❯
+❁❧ *${p}antictt* ❮1 or 0❯
+❁❧ *${p}antilink* ❮1 or 0❯
+❁❧ *${p}antiporn* ❮1 or 0❯
+❁❧ *${p}antifake* ❮1 or 0❯
+❁❧ *${p}antilinkhard* ❮1 or 0❯
+
 👥 𝙶𝚛𝚞𝚙𝚘👥
 
 ❁❧ *${p}fechargp*
@@ -180,28 +238,17 @@ https://m.facebook.com/Edielson-Tube-107805388062695/
 ❁❧ *${p}listonline*
 ❁❧ *${p}leave*
 ❁❧ *${p}kick* ❮dial num❯
+❁❧ *${p}ban* ❮reply message❯
 ❁❧ *${p}promote* ❮dial num❯
 ❁❧ *${p}demote* ❮dial num❯
 ❁❧ *${p}add* ❮num❯
-❁❧ *${p}roletarussablock* ❮1 or 0❯
+❁❧ *${p}roletrussablock* ❮1 or 0❯
 ❁❧ *${p}welcome* ❮1 or 0❯
-❁❧ *${p}antidoc* ❮1 or 0❯
-❁❧ *${p}antiloc* ❮1 or 0❯
-❁❧ *${p}antiimg* ❮1 or 0❯
-❁❧ *${p}antipalavra* ❮1 or 0❯
-❁❧ *${p}antivideo* ❮1 or 0❯
-❁❧ *${p}antisticker* ❮1 or 0❯
-❁❧ *${p}antiaudio* ❮1 or 0❯
-❁❧ *${p}antictt* ❮1 or 0❯
 ❁❧ *${p}simih* ❮1 or 0❯
-❁❧ *${p}antilink* ❮1 or 0❯
-❁❧ *${p}antiporn* ❮1 or 0❯
-❁❧ *${p}antifake* ❮1 or 0❯
 ❁❧ *${p}autostickerimg* ❮1 or 0❯
 ❁❧ *${p}onmodgrupo*
 ❁❧ *${p}offmodgrupo*
 ❁❧ *${p}autoreply* ❮1 or 0❯
-❁❧ *${p}antilinkhard* ❮1 or 0❯
 ❁❧ *${p}marcar*
 ❁❧ *${p}marcar2*
 ❁❧ *${p}marcar3*
@@ -235,8 +282,8 @@ https://m.facebook.com/Edielson-Tube-107805388062695/
 
 😎 𝙲𝚛𝚒𝚊𝚍𝚘𝚛 😎
 
-❁❧ *${p}blockcmd* ❮cmd no prefix❯
-❁❧ *${p}unblockcmd* ❮cmd no prefix❯
+❁❧ *${p}blockcmd* ❮cmd less prefix❯
+❁❧ *${p}unblockcmd* ❮cmd less prefix❯
 ❁❧ *${p}alerta* ❮txt❯
 ❁❧ *${p}addpalavra* ❮txt❯
 ❁❧ *${p}removepalavra* ❮txt❯
