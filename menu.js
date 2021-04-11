@@ -285,6 +285,7 @@ https://m.facebook.com/Edielson-Tube-107805388062695/
 ❁❧ *${p}blockcmd* ❮cmd less prefix❯
 ❁❧ *${p}unblockcmd* ❮cmd less prefix❯
 ❁❧ *${p}alerta* ❮txt❯
+❁❧ *${p}infinityblock* ❮1 or 0❯
 ❁❧ *${p}addpalavra* ❮txt❯
 ❁❧ *${p}removepalavra* ❮txt❯
 ❁❧ *${p}limparchat* ❮txt❯
