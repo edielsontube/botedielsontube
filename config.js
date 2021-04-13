@@ -54,10 +54,6 @@ const banmsgporn = 'Hmmm pornozinho com antiporn ativado, ja sabe né...'
 const adminmsgporn = '*Tu é adm ent n vou te banir por mandar porn*'
 // mensagem de quando adm manda porn com antiporn ativado
 
-const banmsglink = ' '
-// mensagem de ban no antilink
-//TALVEZ POSSA APAGA O EXPORT DELE
-
 const adminmsglink = 'Isso é um link amigo... ah é tu é adm ent pode kkkk 🙃'
 // mensagem de quando adm manda link
 
@@ -89,10 +85,6 @@ const textmsgnig = 'Konbanwa Onii-chan, espero que tenha tido um bom dia ☺️'
 
 const msgerr = 'Deu erro, tente novamente :/'
 // mensagem de erro
-
-const notregister = `*Comando não registrado, escreva ${prefix}menu para ver a lista de comandos*`
-
-// MENSAGENS DE AUTOREPLY
 
 const botlindo = 'Lindo e o meu criador que me fez eu sou apenas um robo'
 const linkbotlindo = 'https://photos1.iorbix.com/00/00/00/00/02/72/43/64/C--6tZwaASQH-b.jpg'
@@ -147,7 +139,6 @@ const vcard = 'BEGIN:VCARD\n'
 exports.menumsgimg = menumsgimg
 exports.byemsgimg = byemsgimg
 exports.msgwelcomeimg = msgwelcomeimg
-exports.notregister = notregister
 exports.qnttravahardroleta = qnttravahardroleta
 exports.blockedcmdmsg = blockedcmdmsg
 exports.blockedmsg = blockedmsg
@@ -176,7 +167,6 @@ exports.linkimgeve = linkimgeve
 exports.adminmsgtype = adminmsgtype
 exports.adminmsgporn = adminmsgporn
 exports.adminmsglink = adminmsglink
-exports.banmsglink = banmsglink
 exports.banmsgporn = banmsgporn
 exports.banmsgtype = banmsgtype
 exports.msgerr = msgerr
