@@ -53,6 +53,9 @@ https://m.facebook.com/Edielson-Tube-107805388062695/
 
 📷 𝚎𝚍𝚒𝚝𝚘𝚛 𝚍𝚎 𝚏𝚘𝚝𝚘𝚜 📷
 
+❁❧ *${p}backremove* ❮caption, reply img❯
+❁❧ *${p}watercolor* ❮txt❯
+❁❧ *${p}neonlogo* ❮txt❯
 ❁❧ *${p}cropimg* ❮lag❯ ❮alt❯ ❮reply img❯
 ❁❧ *${p}bwimg* ❮reply img❯
 ❁❧ *${p}identifyimg* ❮reply img❯
@@ -83,6 +86,9 @@ https://m.facebook.com/Edielson-Tube-107805388062695/
 
 🔍 𝙿𝚎𝚜𝚚𝚞𝚒𝚜𝚊 🔎 
 
+❁❧ *${p}brainlysrc* ❮name❯
+❁❧ *${p}search* ❮name❯
+❁❧ *${p}ssweb* ❮url❯
 ❁❧ *${p}mob*
 ❁❧ *${p}minecraft*
 ❁❧ *${p}covidmundo*
